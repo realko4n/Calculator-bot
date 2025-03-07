@@ -59,8 +59,7 @@ def tg(float_):
 def tan(float_):
     return math.tan(float_)
 
-def kek(num):
-    print("kek")
+
 
 def ln(float_):
     return math.log(float_)
