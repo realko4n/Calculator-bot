@@ -48,6 +48,7 @@ def fact(float_):
     return math.factorial(float_)
 
 def cos(float_):
+    print("Рассчет косинуса")
     return math.cos(float_)
 
 def sin(float_):
